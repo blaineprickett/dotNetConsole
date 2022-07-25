@@ -1,0 +1,15 @@
+/Users/blaineprickett/repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole
+/Users/blaineprickett/repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.deps.json
+/Users/blaineprickett/repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.runtimeconfig.json
+/Users/blaineprickett/repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.dll
+/Users/blaineprickett/repos/dotNetConsole/bin/Debug/net6.0/dotNetConsole.pdb
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.csproj.AssemblyReference.cache
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.AssemblyInfoInputs.cache
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.AssemblyInfo.cs
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.csproj.CoreCompileInputs.cache
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.dll
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/refint/dotNetConsole.dll
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.pdb
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/dotNetConsole.genruntimeconfig.cache
+/Users/blaineprickett/repos/dotNetConsole/obj/Debug/net6.0/ref/dotNetConsole.dll
